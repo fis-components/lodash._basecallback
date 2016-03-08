@@ -1,0 +1,16 @@
+{
+    "name": "lodash._basecallback",
+    "description": "The modern build of lodash’s internal `baseCallback` as a module.",
+    "repos": "https://github.com/lodash/lodash",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash._baseclone": "^3.0.0",
+        "lodash._baseisequal": "^3.0.0",
+        "lodash._baseproperty": "^3.0.0",
+        "lodash._bindcallback": "^3.0.0",
+        "lodash.keys": "^3.0.0"
+    },
+    "main": "index.js",
+    "version": "3.0.0"
+}
